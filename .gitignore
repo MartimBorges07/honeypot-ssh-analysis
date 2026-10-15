@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*.db
+*.json
+*.mmdb
+.env
+*.db
+*.json
+*.mmdb
+.env
+*.db
+*.json
+*.mmdb
+.env
